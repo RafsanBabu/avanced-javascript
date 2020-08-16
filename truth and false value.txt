@@ -1,1 +1,9 @@
-//Falsy
+//Falsy values given below:
+//false
+//0
+//""
+//undefined
+//null
+//Nan
+//Truthy values given beow:
+//'0', ' ', "false", 

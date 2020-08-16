@@ -1,0 +1,5 @@
+sccop ki?
+block scope ki?
+access outer scope?
+wasting ki?
+let , var , const er difference

@@ -13,3 +13,5 @@ console.log(premik.school);*/
 
 let  fun = undefined;
 console.log(fun);
+
+//null = not exist;
