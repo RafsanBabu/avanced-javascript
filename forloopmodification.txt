@@ -1,0 +1,7 @@
+
+//smart way to run for loop
+map
+filter
+find
+Arrow function
+
